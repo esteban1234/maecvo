@@ -9,10 +9,10 @@
             </figure>
             <nav class="nav pull-right">
                 <ul>
-                    <li><a href="index.php"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;INICIO</a></li>
-                    <li class="active"><a href="vistas/nosotros.php"><i class="fa fa-users" aria-hidden="true"></i>&nbsp;NOSOTROS</a></li>
-                    <li><a href="vistas/servicios.php"><i class="fa fa-suitcase" aria-hidden="true"></i>&nbsp;SERVICIOS</a></li>
-                    <li><a href="vistas/contacto.php"><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;CONTACTO</a></li>
+                    <li><a href="../index.php"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;INICIO</a></li>
+                    <li class="active"><a href="nosotros.php"><i class="fa fa-users" aria-hidden="true"></i>&nbsp;NOSOTROS</a></li>
+                    <li><a href="servicios.php"><i class="fa fa-suitcase" aria-hidden="true"></i>&nbsp;SERVICIOS</a></li>
+                    <li><a href="contacto.php"><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;CONTACTO</a></li>
                 </ul>
             </nav>
         </article>

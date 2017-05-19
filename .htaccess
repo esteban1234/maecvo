@@ -1,0 +1,2 @@
+ ErrorDocument 403 http://maecvo.com/index.php
+ Options -Indexes

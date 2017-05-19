@@ -1,0 +1,218 @@
+* {
+    /*border: 0;*/
+    margin: 0;
+    padding: 0;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.active{
+  background-color:  #f8f9f9 ;
+  color: #fff;
+}
+.banner{
+  /*outline: 2px red solid;*/
+   position: relative;
+   width: 100%;
+    /*height: 407px;*/
+    height:600px;
+    background: url('../img/bg-empresa.jpg') center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+.fondo{
+  width: 100%;
+  height: 600px;
+  background-color: rgba(0,0,0,.5);
+}
+
+.contenlogomenu{
+  width: 100%;
+  margin-top: 20px;     
+  background-color: rgba(255, 255, 255, 0.72);
+   /*border: 2px red solid;*/
+  height: 146px;
+
+}
+
+.imglogo{
+  width: 15%;
+  /*border: 2px red solid;*/
+  margin-left: 5%;
+  /*overflow: hidden;*/
+}
+.nav{
+  /*border: 2px red solid;*/
+  margin-top: 4%;
+  margin-right: 10%;
+}
+.nav ul{
+
+}
+.nav ul li{
+  float: left;
+  list-style: none;
+  padding: 10px;
+}
+.nav li a{
+  padding: 15px 10px;
+  /*color:#4c1f1e;*/
+  color: #1B1D3C;
+  font-family: RadikalW01_Black_bold;
+  text-decoration: none;
+  font-size: 18px;
+}
+
+.nav li:hover{
+  background-color:  #f8f9f9 ;
+  color: #fff;
+
+}
+.mensaje{
+  width: 50%;
+  color: #fff;
+  margin: 0 auto;
+  margin-top: 9%;
+  text-align: center;
+  font-size: 30px;
+}
+.boton{
+  margin-top: 5%;
+  /*outline: 2px red solid;*/
+  text-align: center;
+}
+.boton a{
+  background-color:  #FF5733 ;
+  color: #fff;
+  font-size: 18px;
+  padding: 30px;
+  text-decoration: none;
+}
+.boton a:hover{
+  background-color:  #CC3333;
+  }
+
+#contenservindex{
+  /*border: 2px red solid;*/
+
+}
+.algunos{
+  margin-top: 2%;
+}
+
+.banner2index{
+  margin-top: 5%;
+  position: relative;
+   width: 100%;
+    height:370px;
+    background-color: #566573;
+    overflow: hidden;
+}
+.h1{
+  color: #fff;
+  text-align: center;
+  margin-top: 4%;
+}
+.texto{
+  color: #fff;
+  padding: 15px;
+  border: 1px #fff solid;
+  width: 70%;
+  margin: 0 auto;
+  margin-top: 2%;
+  font-size: 18px;
+}
+/*--------------FOOTER----------*/
+footer{
+  width: 100%;
+    background:#1B1D3C;
+    font-family: 'Oswald', sans-serif;
+    height: 80px;
+    /*font-size: 20px;*/
+    overflow: hidden;
+    clear: both;
+
+}
+footer p{
+    width: 100%;
+    text-align: center;
+    font-size: 20px;
+    margin-top: 2%;
+    color: #fff;
+}
+/*-----------nosotros------------*/
+.bannern{
+  /*outline: 2px red solid;*/
+   position: relative;
+   width: 100%;
+    /*height: 407px;*/
+    height:600px;
+    background: url('../img/valuacion.jpeg') center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    overflow: hidden;
+}
+.logon{
+  width: 25%;
+  margin: 0 auto;
+}
+.texton{
+  border-left: 2px red solid;
+  width: 50%;
+  margin: 0 auto;
+  padding: 10px;
+  text-align: center;
+}
+.textonn{
+  margin-top: 2%;
+  width: 50%;
+  margin: 0 auto;
+  padding: 10px;
+  color: #616a6b;
+  text-align: center;
+}
+.seccion{
+  /*border: 2px red solid;*/
+  margin-top: 2%;
+  width: 100%;
+  height: auto;
+  overflow: hidden;
+  background-color: #E5E7E9;
+}
+.contenmvo{
+  /*border: 2px red solid;*/
+  width: 60%;
+  margin: 0 auto;
+  margin-top: 2%;
+  overflow: hidden;
+  margin-bottom: 2%;
+}
+.mision{
+  width: 27%;
+  float: left;
+  margin-left: 5%;
+  /*border: 2px red solid;*/
+}
+.imgmision{
+  border-bottom: 2px #1B1D3C solid;
+  width: 50%;
+  margin: 0 auto;
+}
+.text-mision{
+  text-align: justify;
+}
+.titval{
+  color: #1B1D3C;
+  text-align: center;
+  margin-top: 2%;
+  /*border-bottom: 2px #1B1D3C solid;*/
+  padding-bottom: 1%;
+}
+.valores{
+  width: 100%;
+ clear: both;
+ margin-bottom: 5%;
+}

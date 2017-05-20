@@ -18,11 +18,11 @@ $mail->FromName = $nombre;
 
 //To address and name
 // $mail->addAddress("info@alianconsultores.com");
-$mail->addAddress("info@alianconsultores.com");
+$mail->addAddress("info@maecvo.com");
 
 $mail->isHTML(true);
 
-$mail->Subject = "Cotización Alianconsultores";
+$mail->Subject = "Cotización Maecvo";
 $mail->Body = "
               <b>Telefono: </b>.$telefono.<br/>
               <b>Comentario: </b>.$comentario.<br/>";

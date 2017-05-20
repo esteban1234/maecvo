@@ -67,8 +67,8 @@
 
       <h1 class="titval">Nuestros valores</h1>
         <div class="row">
-          <div class="col-md-3">
-            <article class="text-center">
+          <div class="col-md-3 etica ">
+            <article class="text-center icono">
               <span class="fa-stack fa-5x">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-flag fa-stack-1x fa-inverse"></i>
@@ -77,8 +77,8 @@
             <h2 class="text-center">Ética</h2>
             <p>Apego a los principios de la empresa sabiendo que estos nos llevaran por un camino de éxito y prestigio.</p>
           </div>
-          <div class="col-md-3">
-            <article class="text-center">
+          <div class="col-md-3 etica">
+            <article class="text-center icono">
               <span class="fa-stack fa-5x">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-users fa-stack-1x fa-inverse"></i>
@@ -87,8 +87,8 @@
             <h2 class="text-center">Respeto</h2>
             <p>Crear un ambiente integrador sustentado en la honestidad, la integridad, el respeto y la confianza.</p>
           </div>
-          <div class="col-md-3">
-            <article class="text-center">
+          <div class="col-md-3 etica">
+            <article class="text-center icono">
               <span class="fa-stack fa-5x">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-line-chart fa-stack-1x fa-inverse"></i>
@@ -97,8 +97,8 @@
             <h2 class="text-center">Liderazgo</h2>
             <p>Sustentando en 4 principios: aprendizaje y formación continua, vocación de servicio, confianza y sinergia de esfuerzos.</p>
           </div>
-          <div class="col-md-3">
-            <article class="text-center">
+          <div class="col-md-3 etica">
+            <article class="text-center icono">
               <span class="fa-stack fa-5x">
                 <i class="fa fa-circle fa-stack-2x"></i>
                 <i class="fa fa-star fa-stack-1x fa-inverse"></i>
@@ -117,8 +117,6 @@
 
 <?php include 'pie.php' ?>
 <script src="../js/jquery.js"></script>
-<script src="../js/menu.js"></script>
 <script src="../js/bootstrap.js"></script>
-<script src="../js/arriba.js"></script>
 </body>
 </html>

@@ -40,13 +40,15 @@
 .imglogo{
   width: 15%;
   /*border: 2px red solid;*/
-  margin-left: 5%;
+  /*margin-left: 5%;*/
+  margin-right: 10%;
   /*overflow: hidden;*/
 }
 .nav{
   /*border: 2px red solid;*/
   margin-top: 4%;
-  margin-right: 10%;
+  /*margin-right: 10%;*/
+  margin-left: 10%;
 }
 .nav ul{
 
@@ -60,7 +62,8 @@
   padding: 15px 10px;
   /*color:#4c1f1e;*/
   color: #1B1D3C;
-  font-family: RadikalW01_Black_bold;
+  /*font-family: RadikalW01_Black_bold;*/
+  font-family: 'Roboto', sans-serif;
   text-decoration: none;
   font-size: 18px;
 }

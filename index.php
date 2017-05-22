@@ -4,15 +4,15 @@
 <div class="banner">
     <article class="fondo">
         <article class="contenlogomenu">
-            <figure class="imglogo pull-left">
+            <figure class="imglogo pull-right">
                 <img src="img/maecvo.png" alt="" class="img-responsive">
             </figure>
-            <nav class="nav pull-right">
+            <nav class="nav pull-left">
                 <ul>
-                    <li class="active"><a href="index.php"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;INICIO</a></li>
-                    <li><a href="vistas/nosotros.php"><i class="fa fa-users" aria-hidden="true"></i>&nbsp;NOSOTROS</a></li>
-                    <li><a href="vistas/servicios.php"><i class="fa fa-suitcase" aria-hidden="true"></i>&nbsp;SERVICIOS</a></li>
-                    <li><a href="vistas/contacto.php"><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;CONTACTO</a></li>
+                    <li class="active"><a href="index.php">INICIO</a></li>
+                    <li><a href="vistas/nosotros.php">NOSOTROS</a></li>
+                    <li><a href="vistas/servicios.php">SERVICIOS</a></li>
+                    <li><a href="vistas/contacto.php">CONTACTO</a></li>
                 </ul>
             </nav>
         </article>
@@ -47,7 +47,7 @@
             <p class="text-center text-primary"><a style="text-decoration: none;"  href="vistas/servicios.php"><i class="fa fa-plus" aria-hidden="true"></i> SERVICIOS</a></p>
           </div>
           <div class="col-md-4">
-            <img src="img/labor.png"
+            <img src="img/ase.jpg"
             class="center-block img-responsive img-thumbnail">
             <h3 class="text-center text-muted">Asesoria Laboral</h3>
             <p class="text-center text-primary"><a style="text-decoration: none;" href="vistas/servicios.php"><i class="fa fa-plus" aria-hidden="true"></i> SERVICIOS</a></p>

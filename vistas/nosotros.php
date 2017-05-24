@@ -15,6 +15,11 @@
                     <li><a href="contacto.php">CONTACTO</a></li>
                 </ul>
             </nav>
+
+             <div class="icono-fa">
+                <p class="menu-oculta"><i class="fa fa-bars fa-2x" aria-hidden="true"></i></p>
+                <p class="menu-abre"><i class="fa fa-times-circle fa-2x" aria-hidden="true"></i></p>
+            </div>
         </article>
         <article class="mensaje">Fomentamos los valores en la sociedad y resolvemos problemas importantes.</article>
 
@@ -118,5 +123,6 @@
 <?php include 'pie.php' ?>
 <script src="../js/jquery.js"></script>
 <script src="../js/bootstrap.js"></script>
+<script src="../js/menu.js"></script>
 </body>
 </html>

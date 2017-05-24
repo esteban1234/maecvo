@@ -141,17 +141,32 @@
 	/*******************END DISEÑO CONTACTOS************************/
 
 	/*******************DISEÑO MENU RESPONSIVO****************************/
+	
 	.contenlogomenu{
-		height: 350px;
+		/*position: relative;
+		top: 0px;*/
+		height: 130px;
 	}
 
 	.imglogo{
-		width: 50%;
+		width: 38%;
+		margin: 0px;
+		padding: 0px;
+	}
+
+	.imglogo img{
+		padding: 0px;
 	}
 
 	.nav{
 		/*border: 2px solid red;*/
+		display: none;
+		height: 100%;
 		width: 100%;
+		position: absolute;
+		z-index: 100;
+		background-color: #fff;
+		top:25%;
 		margin: 0px;
 	}
 
@@ -159,6 +174,19 @@
 		/*border: 2px solid yellow;*/
 		display: inline-block;
 		width: 100%;
+	}
+	
+	.icono-fa{
+		padding: 13% 5%;
+		display: block;
+	}
+
+	/*.menu-oculta{
+		display: block;
+	}*/
+	
+	.menu-abre{
+		display: none;
 	}
 	/*******************END DISEÑO MENU RESPONSIVO************************/
 }
@@ -287,6 +315,57 @@
 		font-size: 30px;
 	}
 	/*******************END DISEÑO SERVICIOS************************/
+
+		/*******************DISEÑO MENU RESPONSIVO****************************/
+	
+	.contenlogomenu{
+		/*position: relative;
+		top: 0px;*/
+		padding-top: 0px;
+		height: 130px;
+	}
+
+	.imglogo{
+		width: 33%;
+		margin: 0px;
+		padding: 0px;
+	}
+
+	.imglogo img{
+		padding: 0px;
+	}
+
+	.nav{
+		/*border: 2px solid red;*/
+		display: none;
+		height: 100%;
+		width: 100%;
+		position: absolute;
+		z-index: 100;
+		background-color: #fff;
+		top:25%;
+		margin: 0px;
+	}
+
+	.nav ul li{
+		/*border: 2px solid yellow;*/
+		display: inline-block;
+		width: 100%;
+	}
+	
+	.icono-fa{
+		padding: 9% 5%;
+		display: block;
+	}
+
+	/*.menu-oculta{
+		display: block;
+	}*/
+	
+	.menu-abre{
+		display: none;
+	}
+	/*******************END DISEÑO MENU RESPONSIVO************************/
 }
 
 @media screen and (max-width: 799px) and (min-width: 600px) {
@@ -413,6 +492,57 @@
 	.row{
 		border: 2px solid red;
 	}
+
+		/*******************DISEÑO MENU RESPONSIVO****************************/
+	
+	.contenlogomenu{
+		/*position: relative;
+		top: 0px;*/
+		padding-top: 0px;
+		height: 130px;
+	}
+
+	.imglogo{
+		width: 25%;
+		margin: 0px;
+		padding: 0px;
+	}
+
+	.imglogo img{
+		padding: 0px;
+	}
+
+	.nav{
+		/*border: 2px solid red;*/
+		display: none;
+		height: 100%;
+		width: 100%;
+		position: absolute;
+		z-index: 100;
+		background-color: #fff;
+		top:25%;
+		margin: 0px;
+	}
+
+	.nav ul li{
+		/*border: 2px solid yellow;*/
+		display: inline-block;
+		width: 100%;
+	}
+	
+	.icono-fa{
+		padding: 9% 5%;
+		display: block;
+	}
+
+	/*.menu-oculta{
+		display: block;
+	}*/
+	
+	.menu-abre{
+		display: none;
+	}
+	/*******************END DISEÑO MENU RESPONSIVO************************/
 }
 
 @media screen and (max-width: 1023px) and (min-width: 800px) {

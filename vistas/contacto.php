@@ -15,6 +15,11 @@
                     <li class="active"><a href="contacto.php">CONTACTO</a></li>
                 </ul>
             </nav>
+
+             <div class="icono-fa">
+                <p class="menu-oculta"><i class="fa fa-bars fa-2x" aria-hidden="true"></i></p>
+                <p class="menu-abre"><i class="fa fa-times-circle fa-2x" aria-hidden="true"></i></p>
+            </div>
         </article>
         <article class="mensajec"><strong>¡Contáctanos!</strong> ¿Necesitas una capacitación virtual o conocer más acerca de nuestra oferta de servicios? Queremos saber más de ti y la manera de cómo podemos ayudar a tu empresa a crecer.</article>
 
@@ -83,7 +88,7 @@
                     <div class="col-md-12">
                         <div class="input-group">
                             <span class="input-group-addon"><i class="fa fa-user" aria-hidden="true"></i></span>
-                            <input name="first_name" placeholder="Nombre Completo" class="form-control" type="text">
+                            <input name="txtnombre" placeholder="Nombre Completo" class="form-control" type="text" required/>
                         </div>
                     </div>
                 </div>
@@ -91,7 +96,7 @@
                     <div class="col-md-12">
                         <div class="input-group">
                             <span class="input-group-addon"><i class="glyphicon glyphicon-envelope"></i></span>
-                            <input name="email" placeholder="Escribe tu correo" class="form-control" type="text">
+                            <input name="txtcorreo" placeholder="Escribe tu correo" class="form-control" type="text" required/>
                         </div>
                     </div>
                 </div>
@@ -99,7 +104,7 @@
                     <div class="col-md-12">
                         <div class="input-group">
                             <span class="input-group-addon"><i class="fa fa-phone" aria-hidden="true"></i></span>
-                            <input name="phone" placeholder="Escribe tu teléfono" class="form-control" type="text">
+                            <input name="txttelefono" placeholder="Escribe tu teléfono" class="form-control" type="text" required/>
                         </div>
                     </div>
                 </div>
@@ -108,7 +113,7 @@
                     <div class="col-md-12 inputGroupContainer">
                         <div class="input-group">
                             <span class="input-group-addon"><i class="glyphicon glyphicon-pencil"></i></span>
-                            <textarea class="form-control" name="comment" placeholder="Escribe tu comentario"></textarea>
+                            <textarea class="form-control" name="txtcomentario" placeholder="Escribe tu comentario" required/></textarea>
                         </div>
                     </div>
                 </div>
@@ -124,6 +129,7 @@
 <script src="../js/jquery.js"></script>
 <script src="../js/bootstrap.js"></script>
 <script src="../js/funciondthc.js"></script>
+<script src="../js/menu.js"></script>
 
 </body>
 </html>

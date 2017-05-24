@@ -6,7 +6,7 @@ $mail = new PHPMailer();
 
 // Recoger los valores del Formulario
 
-$nombre = $_POST['txtnombre']. ' ' .$_POST['txtapellido'] ;
+$nombre = $_POST['txtnombre'];
 $telefono = $_POST['txttelefono'];
 $correo = $_POST['txtcorreo'];
 $comentario = $_POST['txtcomentario'];

@@ -37,6 +37,10 @@
 
 }
 
+.icono-fa{
+  display: none;
+}
+
 .imglogo{
   width: 15%;
   /*border: 2px red solid;*/

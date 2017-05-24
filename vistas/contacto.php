@@ -39,7 +39,7 @@
             <div class="panel panel-default">
                 <div class="panel-body">                    
                     <h2>TELEFONO</h2>
-                    <p>PENDIENTE</p>
+                    <p>9994-97-20-93</p>
                 </div>
                 <div class="panel-footer">CONTÁCTANOS</div>
             </div>

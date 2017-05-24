@@ -83,7 +83,7 @@
     <div class="col-xs-12 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3" id="box">
         <h2 class="cont">Formulario de contacto</h2>
         <hr>
-            <form class="form-horizontal" action=" " method="" id="contact_form">
+            <form class="form-horizontal" action="envia.php" method="POST" id="contact_form">
                 <div class="form-group">
                     <div class="col-md-12">
                         <div class="input-group">

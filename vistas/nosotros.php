@@ -4,15 +4,15 @@
 <div class="bannern">
     <article class="fondo">
         <article class="contenlogomenu">
-            <figure class="imglogo pull-left">
+            <figure class="imglogo pull-right">
                 <img src="../img/maecvo.png" alt="" class="img-responsive">
             </figure>
-            <nav class="nav pull-right">
+            <nav class="nav pull-left">
                 <ul>
-                    <li><a href="../index.php"><i class="fa fa-home" aria-hidden="true"></i>&nbsp;INICIO</a></li>
-                    <li class="active"><a href="nosotros.php"><i class="fa fa-users" aria-hidden="true"></i>&nbsp;NOSOTROS</a></li>
-                    <li><a href="servicios.php"><i class="fa fa-suitcase" aria-hidden="true"></i>&nbsp;SERVICIOS</a></li>
-                    <li><a href="contacto.php"><i class="fa fa-phone" aria-hidden="true"></i>&nbsp;CONTACTO</a></li>
+                    <li><a href="../index.php">INICIO</a></li>
+                    <li class="active"><a href="nosotros.php">NOSOTROS</a></li>
+                    <li><a href="servicios.php">SERVICIOS</a></li>
+                    <li><a href="contacto.php">CONTACTO</a></li>
                 </ul>
             </nav>
         </article>

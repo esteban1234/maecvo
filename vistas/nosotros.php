@@ -27,7 +27,7 @@
 <!-- <figure class="logon">
   <img src="../img/maecvo.png" alt="" class="img-responsive">
 </figure> -->
-  <h2 style="text-align: center; margin-top: 4%;">LA EMPRESA</h2>
+  <h2 style="text-align: center; margin-top: 4%; ">LA EMPRESA</h2>
   <hr style="width: 20%;margin: 0 auto;">
 <p class="texton"><strong>CONSULTORES MAECVO</strong> es una empresa flexible y multidisciplinaria. Tenemos amplia experiencia en servicios de consultoría en administración, valuación de empresas, rediseños de procesos, etc.</p>
 
@@ -40,7 +40,7 @@
       <figure class="imgmision">
         <img src="../img/mision.png" alt="" class="img-responsive">
       </figure>
-      <h2 style="text-align: center;">MISION</h2>
+      <h2 class="center" style="text-align: center;">MISION</h2>
       <p class="text-mision">Ofrecer soluciones profesionales en materia, Administrativa, Jurídica, Contable, financiera y fiscal a personas físicas y morales acordes a sus necesidades. </p>
     </article>
 
@@ -48,7 +48,7 @@
       <figure class="imgmision">
         <img src="../img/vision2.png" alt="" class="img-responsive">
       </figure>
-      <h2 style="text-align: center;">VISION</h2>
+      <h2 class="center" style="text-align: center;">VISION</h2>
       <p class="text-mision">Posicionarnos como la primera opción para los clientes que requieran servicios de auditoría, contabilidad, administración y fiscal, distinguida par la calidad y profesionalismo de sus profesionales.  </p>
     </article>
 
@@ -56,7 +56,7 @@
       <figure class="imgmision">
         <img src="../img/objetivo.png" alt="" class="img-responsive">
       </figure>
-      <h2 style="text-align: center;">OBJETIVO</h2>
+      <h2 class="center" style="text-align: center;">OBJETIVO</h2>
       <p class="text-mision">Cumplir con los servicios de asesoría, consultoría, contabilidad y administrativos bajo normas de calidad.</p>
     </article>
   </article>
@@ -67,7 +67,7 @@
 
       <h1 class="titval">Nuestros valores</h1>
         <div class="row">
-          <div class="col-md-3 etica ">
+          <div class="col-xs-12 col-sm-3 col-md-3 etica ">
             <article class="text-center icono">
               <span class="fa-stack fa-5x">
                 <i class="fa fa-circle fa-stack-2x"></i>
@@ -77,7 +77,7 @@
             <h2 class="text-center">Ética</h2>
             <p>Apego a los principios de la empresa sabiendo que estos nos llevaran por un camino de éxito y prestigio.</p>
           </div>
-          <div class="col-md-3 etica">
+          <div class="col-xs-12 col-sm-3 col-md-3 etica">
             <article class="text-center icono">
               <span class="fa-stack fa-5x">
                 <i class="fa fa-circle fa-stack-2x"></i>
@@ -87,7 +87,7 @@
             <h2 class="text-center">Respeto</h2>
             <p>Crear un ambiente integrador sustentado en la honestidad, la integridad, el respeto y la confianza.</p>
           </div>
-          <div class="col-md-3 etica">
+          <div class="col-xs-12 col-sm-3 col-md-3 etica">
             <article class="text-center icono">
               <span class="fa-stack fa-5x">
                 <i class="fa fa-circle fa-stack-2x"></i>
@@ -97,7 +97,7 @@
             <h2 class="text-center">Liderazgo</h2>
             <p>Sustentando en 4 principios: aprendizaje y formación continua, vocación de servicio, confianza y sinergia de esfuerzos.</p>
           </div>
-          <div class="col-md-3 etica">
+          <div class="col-xs-12 col-sm-3 col-md-3 etica">
             <article class="text-center icono">
               <span class="fa-stack fa-5x">
                 <i class="fa fa-circle fa-stack-2x"></i>

@@ -30,7 +30,7 @@
 
 <div class="container">
     <div class="row">
-        <div class="col-md-3 col-sm-6 col-xs-6">
+        <div class="col-xs-12 col-sm-6 col-md-6">
             <div class="panel panel-default">
                 <div class="panel-body">                    
                     <h2>TELEFONO</h2>
@@ -39,7 +39,8 @@
                 <div class="panel-footer">CONTÁCTANOS</div>
             </div>
         </div>
-        <div class="col-md-3 col-sm-6 col-xs-6">
+
+        <div class="col-xs-12 col-sm-6 col-md-6">
             <div class="panel panel-default">
                 <div class="panel-body">
                     <h2>HORARIO</h2>
@@ -48,8 +49,9 @@
                 <div class="panel-footer">CONTÁCTANOS</div>
             </div>
         </div>
-
-        <div class="col-md-3 col-sm-6 col-xs-6">
+    </div>
+    <div class="row">
+        <div class="col-xs-12 col-sm-6 col-md-6">
             <div class="panel panel-default">
                 <div class="panel-body">
                     <h2>CORREO</h2>
@@ -59,7 +61,7 @@
             </div>
         </div>
 
-        <div class="col-md-3 col-sm-6 col-xs-6">
+        <div class="col-xs-12 col-sm-6 col-md-6">
             <div class="panel panel-default">
                 <div class="panel-body">
                     <h2>DIRECCIÓN</h2>
@@ -73,7 +75,7 @@
 
  
  <div class="container-fluid"> 
-    <div class="col-md-offset-4 col-md-4" id="box">
+    <div class="col-xs-12 col-sm-8 col-sm-offset-2 col-md-6 col-md-offset-3" id="box">
         <h2 class="cont">Formulario de contacto</h2>
         <hr>
             <form class="form-horizontal" action=" " method="" id="contact_form">

@@ -110,7 +110,7 @@
                     <div class="image"><i class="fa fa-calculator"></i></div>
                     <div class="info">
                         <h3 class="title">Consultoria de Contabilidad</h3>
-                        <p>
+                        <p class="new-diseño">
                             Los servicios de contabilidad están diseñados para que se constituyan en un verdadero soporte administrativo, sobre el cual el empresario o comerciante pueda realizar netamente su actividad productiva, con la confianza que cuenta con una empresa de especialistas que se encargará de hacer las tareas contables oportunamente y dentro de las disposiciones legales vigentes.
                         </p>
                         <!-- <div class="more">
@@ -130,7 +130,7 @@
                     <div class="image"><i class="fa fa-university"></i></div>
                     <div class="info">
                         <h3 class="title">Consultoria Fiscal</h3>
-                        <p>
+                        <p class="new-diseño">
                             Son las acciones de orden preventivo que se han organizado en la planeación de los negocios y empresas para lograr que el cumplimiento de las obligaciones tributarias sea oportuno, apegado a la ley y al menor costo alternativo posible.
                         </p>
                         <!-- <div class="more">
@@ -150,7 +150,7 @@
                     <div class="image"><i class="fa fa-gavel"></i></div>
                     <div class="info">
                         <h3 class="title">Consultoria Legal</h3>
-                        <p>
+                        <p class="new-diseño">
                             El propósito de las consultorias legales es obtener información sobre la cual se pueda soportar una opinión de la situación del estado legal de una empresa y así mantener informados de manera precisa a los socios o accionistasprecisando las fortalezas y debilidades de la empresa, bajo la aplicación del derecho corporativo en México.
                         </p>
                         <!-- <div class="more">
@@ -167,7 +167,7 @@
 </div> 
 
 <div class="bannermercados">
-<h1 style="margin-top: 2%; color: #000;" class="text-center">Mercados a los que servimos</h1>
+<h1 style="margin-top: 2%; color: #000;" class="text-center new-tamaño">Mercados a los que servimos</h1>
 
 <div class="container contserv">
     <div class="row">

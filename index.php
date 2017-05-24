@@ -34,27 +34,21 @@
           </div>
         </div>
         <div class="row">
-          <div class="col-xs-12 col-sm-4 col-md-4">
+          <div class="col-md-4">
             <img src="img/admin.jpg"
-            class="center-block img-responsive img-thumbnail border-redondo">
+            class="center-block img-responsive img-thumbnail">
             <h3 class="text-center text-muted">Consultoria en administración</h3>
             <p class="text-center text-primary"><a style="text-decoration: none;" href="vistas/servicios.php"><i class="fa fa-plus" aria-hidden="true"></i> SERVICIOS</a></p>
           </div>
-          <div class="col-xs-12 col-sm-4 col-md-4">
+          <div class="col-md-4">
             <img src="img/auditoria.jpg"
-            class="center-block img-responsive img-thumbnail border-redondo">
+            class="center-block img-responsive img-thumbnail">
             <h3 class="text-center text-muted">Auditoria</h3>
             <p class="text-center text-primary"><a style="text-decoration: none;"  href="vistas/servicios.php"><i class="fa fa-plus" aria-hidden="true"></i> SERVICIOS</a></p>
           </div>
-<<<<<<< HEAD
-          <div class="col-xs-12 col-sm-4 col-md-4">
-            <img src="img/labor.png"
-            class="center-block img-responsive img-thumbnail border-redondo">
-=======
           <div class="col-md-4">
             <img src="img/ase.jpg"
             class="center-block img-responsive img-thumbnail">
->>>>>>> 924376683a81ba27ea8d9fbffc88075faefd5275
             <h3 class="text-center text-muted">Asesoria Laboral</h3>
             <p class="text-center text-primary"><a style="text-decoration: none;" href="vistas/servicios.php"><i class="fa fa-plus" aria-hidden="true"></i> SERVICIOS</a></p>
           </div>
@@ -63,13 +57,13 @@
     </div>
 
 <div class="banner2index">
-    <h1 class="h1">¡No más complicaciones!</h1>
 
-    <p class="texto text-center"><b style="color:  #f8c471;">Maecvo</b> es tu asesor en administración y contaduria personal y empresarial. Nosotros te ayudaremos a administrar tus ingresos y gastos, a generar rediseños de procesos. Tendrás a los expertos respaldándote en todo momento.</p>
+    <h1 class="h1">¡No más complicaciones!</h3>
+    <p class=" texto text-center"><b style="color:  #f8c471;">Maecvo</b> es tu asesor en administración y contaduria personal y empresarial. Nosotros te ayudaremos a administrar tus ingresos y gastos, a generar rediseños de procesos. Tendrás a los expertos respaldándote en todo momento.</p>
 
-    <article class="boton">
-        <a href="vistas/contacto.php">¡Comienza ya!</a>
-    </article>
+        <article class="boton">
+            <a href="vistas/contacto.php">¡Comienza ya!</a>
+        </article>
 </div>
 
 <?php include 'vistas/pie.php' ?>
